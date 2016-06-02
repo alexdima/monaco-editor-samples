@@ -1,6 +1,6 @@
 {
   "name": "monaco-editor-samples",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Samples for using the Monaco Editor",
   "main": "index.js",
   "scripts": {
